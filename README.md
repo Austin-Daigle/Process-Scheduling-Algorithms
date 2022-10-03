@@ -26,7 +26,7 @@ Program Console Output Format:
 
 
 ### Instructions for jGRASP:
-load both Process.java and ProcessScheduling.java into jGRASP, then in the "Build" Ribbon 
+load both Process.java and ProcessScheduling.java into jGRASP, then in the "Build" Ribbon and check the box that says "run arguments."
 
 
 
