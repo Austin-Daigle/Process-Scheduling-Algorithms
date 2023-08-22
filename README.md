@@ -1,4 +1,4 @@
-# Operating Systems Process Scheduling Algorithms
+# OS Process Scheduling Algorithms
 This repo contains the different algorithms found in computer operating system process scheduling.
 
 ## How it works:
